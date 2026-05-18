@@ -1,6 +1,0 @@
-[server]
-runOnSave = true
-fileWatcherType = "auto"
-
-[client]
-toolbarMode = "minimal"
