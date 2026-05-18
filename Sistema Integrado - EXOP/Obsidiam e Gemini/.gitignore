@@ -1,0 +1,10 @@
+.env
+*.log
+*.out.log
+*.err.log
+__pycache__/
+*.py[cod]
+
+.streamlit/secrets.toml
+chat_conversas.json
+usuarios_acesso.json
